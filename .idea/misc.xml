@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/SIFREDO/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/SIFREDO/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_menu_web_services.xml" value="0.2" />
+        <entry key="..\:/Users/SIFREDO/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_web_services_albums.xml" value="0.2" />
+        <entry key="..\:/Users/SIFREDO/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_web_services_comements.xml" value="0.2" />
+        <entry key="..\:/Users/SIFREDO/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_web_services_users.xml" value="0.1875" />
       </map>
     </option>
   </component>

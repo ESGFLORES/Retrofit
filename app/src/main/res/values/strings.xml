@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Retrofit</string>
+    <string name="TvMenu">Menu Webservices</string>
+    <string name="btn1">VER PUBLICACIONES</string>
+    <string name="btn2">VER COMENTARIOS</string>
+    <string name="btn3">VER USUARIOS</string>
+    <string name="btn4">VER ALBUMS </string>
+    <string name="BTN">VER ALBUMS</string>
 </resources>
